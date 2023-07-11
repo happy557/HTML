@@ -1,0 +1,50 @@
+
+
+  @import url('https://fonts.googleapis.com/css2?family=Fasthand&display=swap');
+
+  /* font-family: 'Fasthand', cursive; */
+
+.first{ color: rgb(42, 165, 95);
+    margin-left: 100px; 
+    /* background-color: aqua; */
+    padding: 100px;
+    border:2px solid rgb(165, 42, 118);
+ }
+ .second{color: rgb(40, 10, 236);
+    font-size: 1.5em;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     /* background-color: rgb(137, 220, 20); */
+     border-style:solid;
+     /* border-color: rgb(100, 0, 72); */
+
+ }
+ /* .divcls{background-color: brown;
+
+ } */
+p{font-size: 1.5em; color: hsl(236, 100%, 50%);font-family: 'Fasthand', cursive;
+margin-left: 200px;
+padding: 50px;}
+.third {color: rgb(183, 236, 10);
+        font-size: 1.5em;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; border-style:solid;}
+ .five{color: rgb(10, 183, 236);
+    font-size: 1.5em;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; border-style:solid; }
+    .six{color: rgb(10, 236, 78);
+        font-size: 1.5em;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; border-style:solid;}
+ 
+ /* .one p{background-color: crimson;}
+ .one .no{background-color: blueviolet;}
+ .third{background-color: chartreuse;}
+ .two p{background-color: chocolate;} */
+ body{background-image: url('OIP.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center;}
+/* #fast{background-color: brown;
+height: 600px;}
+.fastest {background-color: rgb(165, 42, 112);
+    height: 600px;} */
+    #firstt{background-color: black;
+    height: 600px;}
+    #secondd{background-color: brown;
+        height: 600px;}
+    #thirdd{background-color: green;
+        height: 600px;}
