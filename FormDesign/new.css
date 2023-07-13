@@ -1,0 +1,70 @@
+.one{background-image: url(../FormDesign/image/bg-01.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+    background-position: left;
+    margin-top: -40%;
+    margin-left: 10%;
+    width: 500px;
+height: 600px;
+padding: 150px 100px 150px 0px;}
+.two{
+    margin-left: 50%; 
+    margin-top: 15%;
+}
+.first-h{
+    padding-bottom: 50px;
+padding-left: 10%;}
+.label1{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.label2{
+    padding-bottom: 50px;
+}
+.label3{
+    padding-bottom: 50px;
+}
+.label4{
+    padding-bottom: 50px;
+}
+.label5{
+    padding-bottom: 50px;
+}
+.label6{
+    padding-bottom: 50px;
+}
+.label7{
+    padding-bottom: 50px;
+}
+.label8{
+    padding-bottom: 50px;
+}
+.a{margin-left: 100px;
+    color: white;
+}
+.b{margin-left: 100px;
+    color: grey;
+}
+.c{margin-left: 100px;
+    color: green;
+}
+.a1{
+    padding-bottom: 30px;
+}
+.a2{
+    padding-bottom: 30px;
+}
+.a3{
+    padding-bottom: 30px;
+}
+.b1{
+    padding-bottom: 30px;
+}
+.c1{
+    padding-bottom: 30px;
+}
+.c2{
+    padding-bottom: 30px;
+}
+.button1 button{background-color: green;
+}
