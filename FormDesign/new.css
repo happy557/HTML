@@ -1,70 +1,136 @@
-.one{background-image: url(../FormDesign/image/bg-01.jpg);
+
+  @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+   button.btn1:hover{
+    background-color: gray;
+}
+.one{
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("../FormDesign/image/bg-01.jpg");
+
     background-repeat: no-repeat;
     background-size: cover ;
     background-position: left;
     margin-top: -40%;
-    margin-left: 10%;
+    margin-left: 15%;
     width: 500px;
-height: 600px;
-padding: 150px 100px 150px 0px;}
+height: 650px;
+padding: 150px 100px 150px 0px;
+font-family: 'Poppins', sans-serif;}
 .two{
     margin-left: 50%; 
     margin-top: 15%;
+    font-family: 'Poppins', sans-serif;
 }
 .first-h{
-    padding-bottom: 50px;
-padding-left: 10%;}
+    padding-bottom: 30px;
+    margin-top: -20%;
+padding-left: 10%;
+}
 .label1{
     padding-top: 30px;
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 .label2{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 .label3{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 .label4{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 .label5{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 .label6{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 .label7{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 .label8{
-    padding-bottom: 50px;
+    padding-bottom: 30px;
 }
 .a{margin-left: 100px;
     color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 22px;
+    line-height: 1.2;
 }
 .b{margin-left: 100px;
-    color: grey;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #999;
 }
 .c{margin-left: 100px;
-    color: green;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #00ad5f;
 }
+
 .a1{
-    padding-bottom: 30px;
+    padding-bottom: 5px;
 }
 .a2{
-    padding-bottom: 30px;
+    padding-bottom: 5px;
 }
 .a3{
-    padding-bottom: 30px;
+    padding-bottom: 5px;
 }
 .b1{
-    padding-bottom: 30px;
+    padding-bottom: 5px;
+    font-size: 15px;
+    line-height: 1.6;
+    color: #999;
 }
 .c1{
-    padding-bottom: 30px;
+    padding-bottom: 5px;
+   
 }
 .c2{
-    padding-bottom: 30px;
+    padding-bottom: 50px;
 }
-.button1 button{background-color: green;
+.button1 button{background-color: #00ad5f;
+    height: 50px;
+    padding: 20px;
+    margin-left: 140px;
 }
+
+/* input{padding: 10px 60px 20px 10px;} */
+.i1{ border: 1px solid black;
+    padding: 10px 57px 30px 10px;
+}
+/* .i2{border: 1px solid black;
+padding: 10px 3px 30px 10px;} */
+.i3{border: 1px solid black;
+    padding: 10px 293px 30px 10px;}
+    .i4{border: 1px solid black;
+        padding: 10px 293px 30px 10px;}
+        .i5{border: 1px solid black;
+            padding: 10px 293px 30px 10px;}
+
+.i6{ 
+    margin-left: -1%;
+    border: 1px solid black;
+    padding: 10px 67px 30px 10px;
+}
+
+.l1{ border: 1px solid black;
+padding: 10px 300px 30px 10px;
+border-bottom: none;
+}
+.l2{ border: 1px solid black;
+    padding: 10px 310px 30px 10px;
+    border-bottom: none;
+    }
+    .l3{ border: 1px solid black;
+        padding: 10px 292px 30px 10px;
+        border-bottom: none;
+        }
+        .l4{ border: 1px solid black;
+            padding: 10px 374px 30px 10px;
+            border-bottom: none;
+            }
+            /* .s1 img{width:30px;
+            margin-left: -10px;} */
+            
+            
