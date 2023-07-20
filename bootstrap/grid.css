@@ -1,0 +1,35 @@
+.col-lg-1{
+    background-color: rgb(208, 43, 226);
+    border: 1px solid black;
+}
+.col-lg-2{
+    background-color: blueviolet;
+    border: 1px solid black;
+}
+.col-lg-3{
+    background-color: aqua;
+    border: 1px solid black;
+}
+.col-lg-4{
+    background-color: green;
+    border: 1px solid black;
+}
+.col-lg-6 {
+    background-color: brown;
+    border: 1px solid black;
+}
+.col-lg-12{
+    background-color: rgb(187, 249, 44);
+    border: 1px solid black;
+}
+.col-lg-5{
+    background-color: rgb(71, 94, 18);
+    border: 1px solid black;
+}
+.col-lg-9{
+    background-color: rgb(228, 87, 113);
+    border: 1px solid black;
+}
+
+
+.first{border: 1px solid black;}
