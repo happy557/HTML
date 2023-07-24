@@ -1,0 +1,16 @@
+.container{border: 2px solid black;
+
+}
+
+.one{border: 1px solid black;
+    background-color: rgb(220, 127, 94);
+    padding-top: 100px;}
+.two{border: 1px solid black;
+        background-color: rgb(63, 124, 186);
+        padding-top: 100px;}
+        .three{        
+
+            background-color: rgb(168, 171, 78);
+            padding-top: 100px;}
+        
+            .four{border: 2px solid black;}
