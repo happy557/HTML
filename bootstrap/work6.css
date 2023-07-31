@@ -11,16 +11,22 @@ padding-bottom: 30px;}
 padding-bottom: 30px;}
 .d{border: 1px solid black;
     background-color: black;
-    padding-top: 80px;
-    padding-bottom: 80px;}
+    padding-top: 150px;
+    /* padding-bottom: 80px; */
+    margin-left: 110px;
+    margin-right: 110px;}
  .e{border: 1px solid black;
 background-color: black;
-padding-top: 80px;
-padding-bottom: 80px;}
+padding-top: 150px;
+    /* padding-bottom: 80px; */
+    margin-left: 110px;
+    margin-right: 110px;}
 .f{border: 1px solid black;
     background-color: black;
-    padding-top: 80px;
-    padding-bottom: 80px;}
+    padding-top: 150px;
+    /* padding-bottom: 80px; */
+    margin-left: 110px;
+    margin-right: 110px;}
 .g{
     padding-top: 10px;
 padding-bottom: 10px;}

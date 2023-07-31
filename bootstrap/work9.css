@@ -1,0 +1,22 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Monoton&display=swap');
+  /* font-family: 'Dancing Script', cursive;
+  font-family: 'Monoton', cursive; */
+
+.a{text-align: center;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Monoton', cursive;
+}
+.b{ text-align: center;
+    font-size: 20px;
+    font-family: 'Dancing Script', cursive;
+/* font-family: 'Monoton', cursive; */
+
+}
+.c{font-family: 'Dancing Script', cursive;
+    /* font-family: 'Monoton', cursive;} */
+}
+.d{width: 100%;}
+.e{width: 100%;}
+.f{width: 100%;
+}
