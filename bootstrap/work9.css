@@ -20,3 +20,20 @@ font-family: 'Monoton', cursive;
 .e{width: 100%;}
 .f{width: 100%;
 }
+.j{
+    background-color: rgb(25, 25, 84);
+    color: white;
+    font-size: 20px;
+
+}
+.g{margin-left: 20px;
+font-size: 20px;line-height: 7px;
+}
+.i{
+    background-color: rgb(255, 191, 0);
+    margin-left: 4px;
+    font-size: 20px;
+}
+.h{margin-left: 250px;
+    font-size: 20px;
+}
